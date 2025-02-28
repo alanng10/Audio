@@ -35,3 +35,9 @@ Audio has park kind arch.
 Audio has park kind arch worth.
 
 Audio effect compute can be implemented with parallel compute effect.
+
+Audio has prerequisite.
+
+Audio requires compute effect of math value 60 bits.
+
+Audio requires compute effect of 2 ^ 32 audio point per 2^-30 day duration.
